@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:estudos_getx/models/endereco_model.dart';
+import 'package:estudos_getx/data/models/endereco_model.dart';
 import 'package:retrofit/http.dart';
 part 'endereco_service.g.dart';
 

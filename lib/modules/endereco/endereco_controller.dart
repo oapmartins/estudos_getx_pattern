@@ -1,5 +1,5 @@
-import 'package:estudos_getx/models/endereco_model.dart';
-import 'package:estudos_getx/repositories/endereco/endereco_repository.dart';
+import 'package:estudos_getx/data/models/endereco_model.dart';
+import 'package:estudos_getx/data/repositories/endereco_repository.dart';
 import 'package:get/get.dart';
 
 class EnderecoController extends GetxController {
