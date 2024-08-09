@@ -1,4 +1,4 @@
-# estudos_getx
+# estudos_getx_pattern
 
 A new Flutter project.
 
